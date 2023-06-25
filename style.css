@@ -77,6 +77,19 @@ button{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     border-radius: 2px;
     border-style: groove;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 1px;
+    font-size: large;
+    margin-top: 10px;
+}
+
+.f{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 div#header{
